@@ -1,146 +1,85 @@
-# ML CSE-11
-This repository contains implementation and comparison of core Machine Learning algorithms using Python.
-Each notebook focuses on concepts, mathematical intuition, implementation, and visualization.
+# 📘 Machine Learning – CSE11
 
-├── GradientDescent.ipynb
-├── SGDGradientDescent.ipynb
-├── linear regression.ipynb
-├── multiple linear regression.ipynb
+This repository contains **Machine Learning notebooks** developed as part of the **CSE11 Machine Learning coursework**.  
+It covers **regression, classification, optimization techniques, evaluation metrics, and comparisons**, implemented using Python.
+
+---
+
+## 📂 Repository Structure
+
+Machine-Learning-CSE11/
+│
+├── Assignment1.ipynb
+├── ClassificationComparison.ipynb
+├── ClassificationMetrics.ipynb
+├── KNN.ipynb
+├── LinearRegression.ipynb
+├── MultipleLinearRegression.ipynb
 ├── RidgeRegression.ipynb
-├── knn.ipynb
-├── decision.ipynb
-├── NaiveBayes.ipynb
-├── comparison.ipynb
-├── comparision_of_graph/
+├── SGDGradientDescent.ipynb
+│
+├── NaiveBayes/
+│ └── NaiveBayes.ipynb
+│
 └── README.md
 
-📌 Notebook Descriptions
-🔹 Regression Algorithms
 
-linear regression.ipynb
+---
 
-Simple Linear Regression
+## 🧠 Topics Covered
 
-Cost function and model fitting
+### 🔹 Regression
+- Simple Linear Regression
+- Multiple Linear Regression
+- Ridge Regression (L2 Regularization)
 
-Visualization of regression line
+### 🔹 Optimization Techniques
+- Gradient Descent
+- Stochastic Gradient Descent (SGD)
 
-multiple linear regression
+### 🔹 Classification
+- K-Nearest Neighbors (KNN)
+- Naive Bayes Classifier
+- Decision boundaries and predictions
 
-Coefficient interpretation
+### 🔹 Model Evaluation
+- Classification Metrics (Accuracy, Precision, Recall, F1-score)
+- Algorithm comparison and performance analysis
 
-Model evaluation
+---
 
-RidgeRegression.ipynb
+## 🛠️ Technologies Used
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Jupyter Notebook
 
-Ridge Regression (L2 Regularization)
+---
 
-Overfitting control
+## 🚀 How to Run
+1. Clone the repository:
+git clone https://github.com/your-username/Machine-Learning-CSE11.git
 
-Comparison with Linear Regression
-
-🔹 Optimization Techniques
-
-GradientDescent
-
-Batch Gradient Descent
-
-Learning rate impact
-
-Loss minimization visualization
-
-SGDGradientDescent.ipynb
-
-Stochastic Gradient Descent
-
-Faster convergence analysis
-
-Comparison with batch GD
-
-🔹 Classification Algorithms
-
-
-K-Nearest Neighbors
-
-Distance metrics
-
-Accuracy evaluation
-
-Naive Bayes Classifier
-
-Probability-based classification
-
-Suitable for text & categorical data
-
-Decision Tree Classifier
-
-Tree visualization
-
-Entropy and Gini index
-
-🔹 Comparison & Visualization
-
-
-Performance comparison of algorithms
-
-Accuracy and error metrics
-
-comparision_of_graph/
-
-Graphical comparison
-
-Visual performance analysis
-
-🛠️ Technologies Used
-
-Python
-
-NumPy
-
-Pandas
-
-Matplotlib
-
-Seaborn
-
-Scikit-learn
-
-Jupyter Notebook
-
-🎯 Learning Outcomes
-
-Understand ML algorithms from scratch
-
-Compare optimization techniques
-
-Analyze model performance
-
-Visualize training behavior and results
-
-🚀 How to Run
-
-Clone the repository
-
-git clone https://github.com/your-username/your-repo-name.git
-
-
-Install dependencies
+2.Install required libraries:
 
 pip install numpy pandas matplotlib seaborn scikit-learn
 
 
-Open notebooks
+3.Launch Jupyter Notebook:
 
 jupyter notebook
 
-📌 Use Case
+🎯 Purpose of This Repository
 
-✔ College assignments
-✔ ML fundamentals practice
-✔ Interview preparation
-✔ Academic mini-projects
+Academic coursework (CSE11)
+Understanding ML algorithms from scratch
+Hands-on implementation practice
+Interview and exam preparation
 
 👤 Author
 
 Roshan Panda
-Machine Learning & Data Analytics Enthusiast
+Machine Learning & Data Analytics Student
