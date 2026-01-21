@@ -4,9 +4,7 @@ This repository contains **Machine Learning notebooks** developed as part of the
 It covers **regression, classification, optimization techniques, evaluation metrics, and comparisons**, implemented using Python.
 
 ---
-
 ## 📂 Repository Structure
-
 Machine-Learning-CSE11/
 │
 ├── Assignment1.ipynb
