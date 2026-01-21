@@ -5,6 +5,8 @@ It covers **regression, classification, optimization techniques, evaluation metr
 
 ---
 ## 📂 Repository Structure
+
+```
 Machine-Learning-CSE11/
 │
 ├── Assignment1.ipynb
@@ -17,12 +19,14 @@ Machine-Learning-CSE11/
 ├── SGDGradientDescent.ipynb
 │
 ├── NaiveBayes/
-│ └── NaiveBayes.ipynb
+│   └── NaiveBayes.ipynb
 │
 └── README.md
 
+```
 
----
+
+
 
 ## 🧠 Topics Covered
 
@@ -58,26 +62,33 @@ Machine-Learning-CSE11/
 ---
 
 ## 🚀 How to Run
+
 1. Clone the repository:
+```
 git clone https://github.com/your-username/Machine-Learning-CSE11.git
-
+```
 2.Install required libraries:
-
+```
 pip install numpy pandas matplotlib seaborn scikit-learn
-
+```
 
 3.Launch Jupyter Notebook:
-
+```
 jupyter notebook
-
+```
 🎯 Purpose of This Repository
 
-Academic coursework (CSE11)
-Understanding ML algorithms from scratch
-Hands-on implementation practice
-Interview and exam preparation
-
+- Academic coursework (CSE11)
+- Understanding ML algorithms from scratch
+- Hands-on implementation practice
+- Interview and exam preparation
+---
 👤 Author
 
 Roshan Panda
+
 Machine Learning & Data Analytics Student
+
+⭐ Feedback / Contributions
+
+Feel free to propose improvements — this repo can grow into a richer ML resource!
