@@ -9,14 +9,13 @@ It covers **regression, classification, optimization techniques, evaluation metr
 ```
 Machine-Learning-CSE11/
 │
-├── Assignment1.ipynb
-├── ClassificationComparison.ipynb
-├── ClassificationMetrics.ipynb
-├── KNN.ipynb
+├──decision.ipynb
+├── Comparison.ipynb
+├── Knn.ipynb
 ├── LinearRegression.ipynb
 ├── MultipleLinearRegression.ipynb
 ├── RidgeRegression.ipynb
-├── SGDGradientDescent.ipynb
+├── GradientDescent.ipynb
 │
 ├── NaiveBayes/
 │   └── NaiveBayes.ipynb
